@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.video.android:AlivcFFmpeg:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcFFmpeg-1.1.0.aar/844e68df9d7152357556ef64fe6a5eaf/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcFFmpeg-1.1.0.aar/844e68df9d7152357556ef64fe6a5eaf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AlivcFFmpeg-1.1.0.aar/844e68df9d7152357556ef64fe6a5eaf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

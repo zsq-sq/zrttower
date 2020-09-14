@@ -1,0 +1,12 @@
+rootProject.name='arttower'
+include ':app'
+include ':AlivcLittleVideo'
+include ':AlivcMedia'
+include ':AliyunCrop:crop'
+include ':AliyunEditor'
+include ':AliyunFileDownLoader'
+include ':AliyunRecorder:record'
+include ':AliyunSVideoBase'
+include ':AliyunSvideoMusic'
+include ':AliyunVideoCommon'
+

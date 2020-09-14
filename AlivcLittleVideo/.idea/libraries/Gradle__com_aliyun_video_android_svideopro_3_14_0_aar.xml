@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.video.android:svideopro:3.14.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/svideopro-3.14.0.aar/c5c7be90b21f0b74c1fae18e7c300b53/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/svideopro-3.14.0.aar/c5c7be90b21f0b74c1fae18e7c300b53/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/svideopro-3.14.0.aar/c5c7be90b21f0b74c1fae18e7c300b53/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/svideopro-3.14.0.aar/c5c7be90b21f0b74c1fae18e7c300b53/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

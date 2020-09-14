@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlivcLittleVideo.iml" filepath="$PROJECT_DIR$/.idea/modules/AlivcLittleVideo.iml" group="ApsaraVideoQuVideo/AlivcLittleVideo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-230135441/AlivcMedia.iml" filepath="$PROJECT_DIR$/.idea/modules/-230135441/AlivcMedia.iml" group="ApsaraVideoQuVideo/AlivcMedia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1346389382/AliyunCrop.iml" filepath="$PROJECT_DIR$/.idea/modules/-1346389382/AliyunCrop.iml" group="ApsaraVideoQuVideo/AliyunCrop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1050882345/AliyunEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/-1050882345/AliyunEditor.iml" group="ApsaraVideoQuVideo/AliyunEditor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1417887461/AliyunFileDownLoader.iml" filepath="$PROJECT_DIR$/.idea/modules/-1417887461/AliyunFileDownLoader.iml" group="ApsaraVideoQuVideo/AliyunFileDownLoader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1312269224/AliyunRecorder.iml" filepath="$PROJECT_DIR$/.idea/modules/1312269224/AliyunRecorder.iml" group="ApsaraVideoQuVideo/AliyunRecorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2139037475/AliyunSVideoBase.iml" filepath="$PROJECT_DIR$/.idea/modules/2139037475/AliyunSVideoBase.iml" group="ApsaraVideoQuVideo/AliyunSVideoBase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1896407059/AliyunSvideoMusic.iml" filepath="$PROJECT_DIR$/.idea/modules/1896407059/AliyunSvideoMusic.iml" group="ApsaraVideoQuVideo/AliyunSvideoMusic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1193532156/AliyunVideoCommon.iml" filepath="$PROJECT_DIR$/.idea/modules/1193532156/AliyunVideoCommon.iml" group="ApsaraVideoQuVideo/AliyunVideoCommon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-491191207/ApsaraVideoQuVideo.iml" filepath="$PROJECT_DIR$/.idea/modules/-491191207/ApsaraVideoQuVideo.iml" group="ApsaraVideoQuVideo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/462686059/app.iml" filepath="$PROJECT_DIR$/.idea/modules/462686059/app.iml" group="ApsaraVideoQuVideo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2013737723/crop.iml" filepath="$PROJECT_DIR$/.idea/modules/-2013737723/crop.iml" group="ApsaraVideoQuVideo/AliyunCrop/crop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1614037864/record.iml" filepath="$PROJECT_DIR$/.idea/modules/-1614037864/record.iml" group="ApsaraVideoQuVideo/AliyunRecorder/record" />
+    </modules>
+  </component>
+</project>

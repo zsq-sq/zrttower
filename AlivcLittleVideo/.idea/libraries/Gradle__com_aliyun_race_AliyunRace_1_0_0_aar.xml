@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.race:AliyunRace:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AliyunRace-1.0.0.aar/1a6b5c4b820e0cbcc96fbbc3c5797ab6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AliyunRace-1.0.0.aar/1a6b5c4b820e0cbcc96fbbc3c5797ab6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AliyunRace-1.0.0.aar/1a6b5c4b820e0cbcc96fbbc3c5797ab6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

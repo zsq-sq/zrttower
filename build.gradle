@@ -1,0 +1,80 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    apply from: 'thirdparty-lib/config.gradle'
+    repositories {
+        maven{ url 'http://maven.aliyun.com/repository/public/'}
+        maven{ url 'http://maven.aliyun.com/repository/google/'}
+        maven{ url 'http://maven.aliyun.com/repository/gradle-plugin/'}
+        maven{ url 'http://maven.aliyun.com/repository/central/'}
+        //jcenter仓库
+        jcenter{
+            url 'http://jcenter.bintray.com'
+        }
+
+        google()
+        maven { url 'https://dl.bintray.com/umsdk/release' }
+//        maven {url 'https://maven.aliyun.com/repository/releases'}
+//        maven { url "http://maven.aliyun.com/nexus/content/repositories/releases" }
+        //maven { url "https://jitpack.io" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.0.1'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        maven{ url 'http://maven.aliyun.com/repository/public/'}
+        maven{ url 'http://maven.aliyun.com/repository/google/'}
+        maven{ url 'http://maven.aliyun.com/repository/gradle-plugin/'}
+        maven{ url 'http://maven.aliyun.com/repository/central/'}
+
+        jcenter{
+            url 'http://jcenter.bintray.com'
+        }
+        maven { url "https://jitpack.io" }
+
+        flatDir {
+            dirs 'libs'
+        }
+
+        maven { url 'http://developer.huawei.com/repo' }
+        maven { url 'https://dl.bintray.com/umsdk/release' }
+       // maven {url 'https://maven.aliyun.com/repository/releases'}
+        //TODO 录制
+        //maven { url "https://maven.aliyun.com/nexus/content/repositories/releases" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+ext {
+
+    compileSdkVersion = 29
+    buildToolsVersion = '29.0.2'
+    targetSdkVersion = compileSdkVersion
+    supportVsersion = '29.0.2'
+    minSdkVersion = 19
+    versionCode = 1
+    versionName = '1.0.1'
+    constraint = '1.1.2'
+    retrofit2 = '2.3.0'
+    rxjava2 = '2.0.1'
+    butterknife = '10.0.0'
+    glide = '3.8.0'
+    picasso = '2.5.2'
+    tablayout = '2.0.8@aar'
+    rxbinding = '2.0.0'
+    okhttp3 = '3.9.1'
+    ok3log = okhttp3
+    permissions = '2.1.3'
+    jiecao = '5.5'
+    minify = true
+    leakCanary = '1.5.4'
+    smartRefresh = '1.1.0-alpha-14'
+
+}
